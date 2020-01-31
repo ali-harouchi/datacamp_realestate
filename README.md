@@ -16,6 +16,7 @@ This starting kit requires Python and the following dependencies:
 * `geopandas`
 * `json`
 * `bokeh`
+* `googledrivedownloader`
 
 
 ```
